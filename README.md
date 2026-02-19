@@ -82,7 +82,7 @@ PowerPress getting started steps:
 
 Edit Episode screen:
 
-![PowerPress Episode Editor](images/wordpress/powerpress-episode-editor.png)
+![PowerPress Episode Editor](images/wordpress/powerpress-episode-edit.png)
 
 Link: [https://www.wordpress.org/plugins/powerpress/](https://www.wordpress.org/plugins/powerpress/)
 
