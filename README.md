@@ -22,7 +22,7 @@ A custom built Nginx server with built-in server side JavaScript. Server designe
 
 Link: Not public
 
-## Painless Analytics Tracker
+### Painless Analytics Tracker
 
 An IIFE page event tracking privacy focused JavaScript, measures user engagement.
 
@@ -33,19 +33,58 @@ Link: Not available (coming soon)
 ### FrontPup WordPress Plugin
 A CloudFront tool to optimize page caching headers and easily clear site cache.
 
-Link: TODO
+FrontPup WordPress plugin welcome screen:
+
+![FrontPup Welcome Screen](images/wordpress/frontpup-welcome.png)
+
+FrontPup WordPress plugin cache settings:
+
+![FrontPup Cache Settings](images/wordpress/frontpup-cache-settings.png)
+
+Link: [https://www.wordpress.org/plugins/frontpup/](https://www.wordpress.org/plugins/frontpup/)
+
+### Canonical Pages WordPress Plugin
+
+A WordPress plugin that allows you to quickly enable, customize, or disable the canonical meta tag on your pages. Yoast SEO, Rank Math, and All in One SEO plugins are supported.
+
+Example of Canonical Pages WordPress plugin settings:
+
+![Canonical Pages Screenshot](images/wordpress/canonical-pages.png)
+
+Link: [https://www.wordpress.org/plugins/canonical-pages/](https://www.wordpress.org/plugins/canonical-pages/)
 
 ### Painless Analytics WordPress Plugin
 
 A WordPress plugin that makes it easy to link your Painless Analytics account to your WordPress website and add the Painless Analytics Tracker to your web pages.
 
-Link: TODO
+Example of Painless Analytics WordPress plugin settings:
+![Painless Analytics WordPress Plugin Screenshot](images/wordpress/painless-analytics.png)
+
+Link: [https://www.wordpress.org/plugins/painless-analytics/](https://www.wordpress.org/plugins/painless-analytics/)
 
 ### HTML Page Sitemap
 
-A simple web page site map (not xml).
+A simple web page site map (not XML).
 
-Link: TODO
+Example of HTML page sitemap:
+
+![HTML Page Sitemap Screenshot](images/wordpress/html-sitemap.png)
+
+Link: [https://www.wordpress.org/plugins/html-sitemap/](https://www.wordpress.org/plugins/html-sitemap/)
+
+### PowerPress WordPress Plugin
+
+PowerPress is a podcasting plugin for WordPress. It provides an easy way to publish podcasts and manage podcast feeds.
+
+PowerPress getting started steps:
+
+![PowerPress Setup Steps](images/wordpress/powerpress-steps.png)
+
+Edit Episode screen:
+
+![PowerPress Episode Editor](images/wordpress/powerpress-episode-editor.png)
+
+Link: [https://www.wordpress.org/plugins/powerpress/](https://www.wordpress.org/plugins/powerpress/)
 
 ## Windows Applications
 
