@@ -30,6 +30,8 @@ Link: Not available (coming soon)
 
 ## WordPress projects
 
+Since 2005 I have developed a number of WordPress plugins available on WordPress.org, some of which are still available for download.
+
 ### FrontPup WordPress Plugin
 A CloudFront tool to optimize page caching headers and easily clear site cache.
 
@@ -85,6 +87,16 @@ Edit Episode screen:
 ![PowerPress Episode Editor](images/wordpress/powerpress-episode-edit.png)
 
 Link: [https://www.wordpress.org/plugins/powerpress/](https://www.wordpress.org/plugins/powerpress/)
+
+### Other WordPress plugins
+
+A list of other WordPress plugins I have created that are either no longer available or are proprietary and are not available for download.
+
+- Subscribe Sidebar Plugin - A simple plugin to add a subscribe sidebar widget to your WordPress site. It supports RSS, email, and Google reader (now defunct).
+- Static Feed WordPress Plugin - A plugin that generates a static RSS feed for your WordPress site. It was designed to be used with FeedBurner and other feed management services and replicated the same feed filename that was found in a different blogging platform called Movable Type.
+- MIDAS Assessment WordPress Plugin - Custom WordPress plugin to integrate the MIDAS Assessment tool into a WordPress website. The plugin allows users to take the MIDAS Assessment and view their results within the WordPress site. Tied together WordPress accounts to access the survey, view results and generated PDFs of the results. The plugin also included a custom admin interface for managing the MIDAS Assessment and viewing user results.
+- Formulas WordPress Plugin - A plugin that allowed you to easily add automotive calculators to your WordPress website including engine compression calculator.
+- DoMore WordPress Plugin - A plugin that added a "Do More" button and added functionality when the "more" tag was used in a post. The more link was part of the older text editing experience and is no longer available with the newer WordPress block editor.
 
 ## Windows Applications
 
