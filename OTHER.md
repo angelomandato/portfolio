@@ -30,3 +30,6 @@ Angelo has developed jQuery applications including web based podcast players, su
 
 Angelo has developed Perl applications including web uploading via CGI (cgi-bin) and command line tools for parsing and processing data.
 
+## GitHub Workflows (Actions)
+
+Angelo has experience developing GitHub workflows for various projects and applications. Some of the most complicated work includes GitHub workflows for Salesforce with deployment options to sandboxes and production and GitHub repos that run scheduled and triggered workflows from AWS SNS messages.

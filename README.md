@@ -1,6 +1,6 @@
 # portfolio
 
-Portfolio of Angelo's Personal Projects
+Portfolio of Angelo's software development and architecture.
 
 * ## **[PHP Applications and Contributions](PHP.md)**
 * ## **[Windows Applications](WINDOWS.md)**
