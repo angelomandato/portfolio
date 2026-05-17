@@ -10,6 +10,10 @@ PHP applications range from typical PHP web applications, service management too
 
 Windows applications include a ping and NS lookup tool, PDF merge and password protection app, and an IDE for the NSIS installer programming language.
 
+## **[C++](CPP.md)**
+
+Applications including CGI-BIN web applications, CLI tools, and libraries.
+
 ## **[Analytics Projects](ANALYTICS.md)**
 
 Analytics projects including using and extending other systems such as Google Analytics and CloudFlare analytics as well as developed podcast and web analytics services from scratch.
