@@ -8,7 +8,16 @@ Since 2005 Angelo Mandato has developed a number of WordPress sites, themes, and
 
 Angelo Mandato has developed a number of custom WordPress plugins for clients and personal projects that are not available for download. Some of these plugins are listed below.
 
+### **Podcast Blocks WordPress Plugin**
+
+A WordPress podcasting plugin using the WordPress Gutenberg blocks editor.
+
+Link: [https://www.wordpress.org/plugins/podcast-blocks/](https://www.wordpress.org/plugins/podcast-blocks/)
+
+Code: [https://github.com/mandato-wordpress/podcast-blocks](https://github.com/mandato-wordpress/podcast-blocks)
+
 ### **FrontPup WordPress Plugin**
+
 A CloudFront tool to optimize page caching headers and easily clear site cache.
 
 FrontPup WordPress plugin welcome screen:
