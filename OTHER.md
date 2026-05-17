@@ -8,7 +8,7 @@ Angelo has developed applications with Laravel including account dashbaords, API
 
 ## Golang
 
-Angelo has developed AWS Lambda serverless applications as well as cli applications.
+Angelo has developed AWS Lambda serverless applications, cli applications, and a special web server to log data in Go.
 
 ## Node.JS
 
