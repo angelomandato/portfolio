@@ -71,6 +71,8 @@ Code: [https://github.com/mandato-wordpress/html-sitemap](https://github.com/man
 
 PowerPress is a podcasting plugin for WordPress. It provides an easy way to publish podcasts and manage podcast feeds.
 
+Note: Angelo created and developed PowerPress from August 2008 to April 2022.
+
 PowerPress getting started steps:
 
 ![PowerPress Setup Steps](images/wordpress/powerpress-steps.png)
