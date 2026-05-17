@@ -26,6 +26,10 @@ Angelo has developed Bootstrap applications that include dashboards, analytics r
 
 Angelo has developed jQuery applications including web based podcast players, surveys, and interactive dashboards.
 
+## NSIS
+
+Angelo has experience creating Windows application isntallers using [NSIS](https://nsis.sourceforge.io/Main_Page).
+
 ## Perl
 
 Angelo has developed Perl applications including web uploading via CGI (cgi-bin) and command line tools for parsing and processing data.
